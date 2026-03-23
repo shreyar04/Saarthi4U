@@ -1,134 +1,137 @@
-🚀 Saarthi4U
+# 🚀 Saarthi4U
 AI-Powered Tokenized Interview Platform
 
 Incentive-Driven Career Preparation using AI, ML & Web3
 
-<p align="center"> <a href="https://github.com/sansita0704/lnm-hacks"><img src="https://img.shields.io/badge/Repo-View-black?style=for-the-badge&logo=github"></a> <a href="https://www.youtube.com/watch?v=GFc2OQ1mJT4"><img src="https://img.shields.io/badge/Demo-Watch-red?style=for-the-badge&logo=youtube"></a> <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"> <img src="https://img.shields.io/badge/Web3-Enabled-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge"> </p>
-🏆 Built At
+<p align="center"> 
+<a href="https://github.com/sansita0704/lnm-hacks"><img src="https://img.shields.io/badge/Repo-View-black?style=for-the-badge&logo=github"></a> 
+<a href="https://www.youtube.com/watch?v=GFc2OQ1mJT4"><img src="https://img.shields.io/badge/Demo-Watch-red?style=for-the-badge&logo=youtube"></a> 
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/Web3-Enabled-blueviolet?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge"> 
+</p>
 
-FINALISTS at LNMHacks 8.0 — LNMIIT, Jaipur.
-⏱️ 72+ Hour Hackathon • ⛓️ Web3 & Blockchain Track
+## 🏆 Built At
 
-👩‍💻 Team CodeHers
+FINALISTS at LNMHacks 8.0 — LNMIIT, Jaipur.  
+⏱️ 72+ Hour Hackathon • ⛓️ Web3 & Blockchain Track  
 
-Shreya Rawat • Sansita Jain • Priya Kumari • Bhavya Tejasvi
+## 👩‍💻 Team CodeHers
 
-🌍 Problem
+Sansita Jain • Shreya Rawat • Priya Kumari • Bhavya Tejasvi  
 
-Interview prep today is theoretical, expensive, biased, and unstructured.
+## 🌍 Problem
+
+Interview prep today is theoretical, expensive, biased, and unstructured.  
 Students miss real opportunities due to:
 
-No real interview simulation
+- No real interview simulation  
+- Low confidence  
+- No accountability  
+- Fake certificate culture  
 
-Low confidence
-
-No accountability
-
-Fake certificate culture
-
-💡 Solution
+## 💡 Solution
 
 Saarthi4U delivers:
 
-🎙️ AI voice mock interviews
-🧠 Emotion & confidence analysis
-📊 Intelligent feedback dashboard
-🔐 Web3 verifiable identity
-🪙 Token staking for serious practice
+- 🎙️ AI voice mock interviews  
+- 🧠 Emotion & confidence analysis  
+- 📊 Intelligent feedback dashboard  
+- 🔐 Web3 verifiable identity  
+- 🪙 Token staking for serious practice  
 
-✨ Core Features
-🎙️ AI Interview Engine
+## ✨ Core Features
 
-Technical + HR rounds
+### 🎙️ AI Interview Engine
 
-Real-time evaluation
+- Technical + HR rounds  
+- Real-time evaluation  
 
-🧠 Emotion Detection (ML)
+### 🧠 Emotion Detection (ML)
 
-Confidence & nervousness tracking
+- Confidence & nervousness tracking  
+- Communication delivery insights  
 
-Communication delivery insights
+### 🔐 Web3 Login
 
-🔐 Web3 Login
+- MetaMask authentication  
+- No passwords  
+- No fake accounts  
 
-MetaMask authentication
+### 🪙 Token Incentive Model
 
-No passwords
+- Stake → Perform → Refund / Deduction  
+- Skill-based accountability  
 
-No fake accounts
+### 📊 Performance Dashboard
 
-🪙 Token Incentive Model
+- Technical score  
+- Communication insights  
+- Improvement roadmap  
 
-Stake → Perform → Refund / Deduction
+## 🏗️ Workflow
 
-Skill-based accountability
+Login → Stake → AI Interview → AI + ML Analysis  
+→ Score → Token Logic → Smart Feedback Dashboard  
 
-📊 Performance Dashboard
+## 🧠 Tech Stack
 
-Technical score
+Frontend: Next.js • React • TypeScript • Tailwind CSS • lucide-react  
 
-Communication insights
+Backend & DB: Firebase • Firestore • Next.js Server Actions  
 
-Improvement roadmap
+AI/ML: Vapi.ai • Google Gemini • Emotion Detection Model  
 
-🏗️ Workflow
-Login → Stake → AI Interview → AI + ML Analysis
-      → Score → Token Logic → Smart Feedback Dashboard
-🧠 Tech Stack
+Web3: MetaMask • Blockchain Identity • Token Logic  
 
-Frontend: Next.js • React • TypeScript • Tailwind CSS • lucide-react
+## 🚀 Run Locally
 
-Backend & DB: Firebase • Firestore • Next.js Server Actions
-
-AI/ML: Vapi.ai • Google Gemini • Emotion Detection Model
-
-Web3: MetaMask • Blockchain Identity • Token Logic
-
-🚀 Run Locally
-git clone https://github.com/shreyar04/Saarthi4U.git
+```bash
+git clone https://github.com/sansita0704/lnm-hacks.git
 
 cd saathi4U
 
 npm install
 
 npm run dev
+```
 
-Create .env.local:
+Create `.env.local`:
 
+```
 FIREBASE_API_KEY=
 NEXT_PUBLIC_GEMINI_API_KEY=
 VAPI_API_KEY=
-📈 Impact
+```
+
+## 📈 Impact
 
 Bridging the gap between:
 
-🎓 Education → 💼 Employability
+🎓 Education → 💼 Employability  
 
-Making interview preparation practical, transparent, and motivating.
+Making interview preparation practical, transparent, and motivating.  
 
-🔮 Future Scope
+## 🔮 Future Scope
 
-📱 Mobile App
+- 📱 Mobile App  
+- 🧾 Resume ↔ JD matching  
+- 🧑‍💼 Recruiter dashboard  
+- 🌍 Global skill verification  
+- 🎓 NFT certificates  
 
-🧾 Resume ↔ JD matching
+## 🤝 Contribution
 
-🧑‍💼 Recruiter dashboard
+PRs are welcome. Open an issue for major changes.  
 
-🌍 Global skill verification
-
-🎓 NFT certificates
-
-🤝 Contribution
-
-PRs are welcome. Open an issue for major changes.
-
-⭐ Support
+## ⭐ Support
 
 If you like this project:
 
-🌟 Star the repo • 📢 Share feedback
+🌟 Star the repo • 📢 Share feedback  
 
-💚 Built with Purpose by Team CodeHers
+---
+
+💚 Built with Purpose by Team CodeHers  
 
 “We built what we wished we had as first-year students.”
-
