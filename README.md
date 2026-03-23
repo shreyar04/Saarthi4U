@@ -18,7 +18,7 @@ FINALISTS at LNMHacks 8.0 — LNMIIT, Jaipur.
 
 ## 👩‍💻 Team CodeHers
 
-Sansita Jain • Shreya Rawat • Priya Kumari • Bhavya Tejasvi  
+Shreya Rawat • Sansita Jain • Priya Kumari • Bhavya Tejasvi  
 
 ## 🌍 Problem
 
@@ -87,7 +87,7 @@ Web3: MetaMask • Blockchain Identity • Token Logic
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/sansita0704/lnm-hacks.git
+git clone https://github.com/shreyar04/Saarthi4U.git
 
 cd saathi4U
 
